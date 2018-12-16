@@ -1,4 +1,7 @@
 # colors_page
-# static webpage to refresh my html/css skills back again.
-# tools used from:Google Fonts, Font Awesome, CodePen.
-# images from: Unsplash
+
+static webpage to refresh my html/css skills back again. <br/>
+basic hmtl/css/javascript/jquery/bootstrap used <br/>
+tools used from:Google Fonts, Font Awesome, CodePen.<br/>
+images from: Unsplash <br/>
+
