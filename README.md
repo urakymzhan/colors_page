@@ -5,3 +5,5 @@
 -- tools used from:Google Fonts, Font Awesome, CodePen.<br/>
 -- images from: Unsplash <br/>
 
+
+![Alt main page](main_page.png)
