@@ -1,4 +1,4 @@
-# colors_page
+:# colors_page
 
 -- static webpage to refresh my html/css skills back again. <br/>
 -- basic hmtl/css/javascript/jquery/bootstrap used <br/>
